@@ -1,0 +1,5 @@
+Lina, ¿cómo estás? ¿aplica toda la estimación de nuevo? según entiendo 
+ya había plan de pruebas para éste ticket y solo se agregó una validación 
+nueva (la del Segmento).
+no se si aplica hacer todo el proceso por la nueva validación.
+Saludos!
